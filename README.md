@@ -48,7 +48,7 @@ Customers have many projects and jobs
 Projects have one user, one customer, and many jobs
 Jobs have one user, one customer, one project 
 
-![ERD](https://i.imgur.com/JW37Ziz.png)
+![ERD](https://i.imgur.com/QmOWU6E.png)
 
 ## Wireframes and Sitemap
 
