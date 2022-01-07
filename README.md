@@ -4,9 +4,9 @@ Customer and Project Management for Large Format Print Shops
 
 ## Tech Stack
 
-Server: Node, Express
-Database: GraphQL
-Front-end: React/Next, Bootstrap
+- Server: Node, Express
+- Database: GraphQL
+- Front-end: React/Next, Bootstrap
 
 ## User Stories
 
@@ -15,6 +15,7 @@ Front-end: React/Next, Bootstrap
 - I need to collect large orders in Projects
 - I want to see my workflow and order locations visualized
 - I want to assign individual orders to other users
+- I want to create my own workflow locations
 
 ## MVP
 
@@ -27,6 +28,7 @@ Front-end: React/Next, Bootstrap
 ## Project Stretch Goals
 
 - User can CRUD medias and machines
+- User can CRUD locations
 - Job math
 - Data tracking
 - Deeper job details
@@ -34,6 +36,7 @@ Front-end: React/Next, Bootstrap
 ### After Graduation Stretch
 
 - Invoice tracking
+- Cost Analysis
 
 ## ERD
 
