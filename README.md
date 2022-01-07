@@ -4,9 +4,8 @@ Customer and Project Management for Large Format Print Shops
 
 ## Tech Stack
 
-- Server: Node, Express
-- Database: MongoDB
-- Front-end: React, GraphQL, Bootstrap
+- API: Node, Express, GraphQL
+- Front-end: React
 
 ## User Stories
 
