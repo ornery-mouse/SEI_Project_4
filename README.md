@@ -5,8 +5,8 @@ Customer and Project Management for Large Format Print Shops
 ## Tech Stack
 
 - Server: Node, Express
-- Database: GraphQL
-- Front-end: React/Next, Bootstrap
+- Database: MongoDB
+- Front-end: React, GraphQL, Bootstrap
 
 ## User Stories
 
@@ -22,11 +22,13 @@ Customer and Project Management for Large Format Print Shops
 - User can CRUD customers
 - User can CRUD jobs (individual items)
 - User can CRUD projects (collections and jobs)
-- Jobs and projects show in a workflow and can be moved freely
+- Jobs and projects show in a workflow
+- Jobs and projects can be moved freely between locations
 - Completed jobs can be archived 
 
 ## Project Stretch Goals
 
+- User access levels
 - User can CRUD medias and machines
 - User can CRUD locations
 - Job math
@@ -49,7 +51,9 @@ Jobs have one user, one customer, one project
 
 ![ERD](https://i.imgur.com/JW37Ziz.png)
 
-## Wireframes
+## Wireframes and Sitemap
+
+![Site Map](https://i.imgur.com/0ciA7fY.png?1)
 
 ![Landing](https://i.imgur.com/9jQZ5dV.png)
 ![Dashboard](https://i.imgur.com/Nj6AjgS.png)
