@@ -5,7 +5,7 @@ Customer and Project Management for Large Format Print Shops
 ## Tech Stack
 
 - API: Node, Express, GraphQL
-- Front-end: React
+- Front-end: React, GraphQL, Apollo Client
 
 ## User Stories
 
